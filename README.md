@@ -1,10 +1,10 @@
 # Back_publicaciones_crud_mern
 
-<h1 align = "center">🏷️ Mis Publicaciones 🎁</h1>
+<h1 align = "center">🏷 Mis Publicaciones </h1>
 <p align = "center">Guarda tus publicaciones con archivos</p>
 <p align = "center">Proyecto Final Diplomatura Web Full Stack UTN</p>
 
-<h2>Breve descripción del proyecto 📜</h2>
+<h2>Breve descripción del proyecto</h2>
 
 Este proyecto fue realizado apuntando a cumplir con los objetivos que presentaba el trabajo final propuesto por los profesores de la UTN
 
