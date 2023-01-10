@@ -1,6 +1,6 @@
 # Back_publicaciones_crud_mern
 
-<h1 align = "center">🏷 Mis Publicaciones </h1>
+<h1 align = "center"> :memo: Mis Publicaciones</h1>
 <p align = "center">Guarda tus publicaciones con archivos</p>
 <p align = "center">Proyecto Final Diplomatura Web Full Stack UTN</p>
 
